@@ -6,7 +6,7 @@ def prime_finder(array):
         if item > 1:
             new_array.append(item)
     for item in new_array:
-        isprime = True
+        isprime = True # Do this instead of n += 1
         if item == 2:
             number_list.append(item)
         else:
@@ -16,8 +16,4 @@ def prime_finder(array):
             if isprime == True:
                 number_list.append(item)
     return number_list
-            #if (item/i)%2 == 0:
-                #n += 1
-        #if n == 0:
-            #prime_list.append(item)
-    #return list(prime_list)
+            
