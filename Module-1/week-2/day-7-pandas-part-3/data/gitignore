@@ -1,0 +1,5 @@
+#ignoring csv and zip locally
+
+*.csv
+
+*.zip
