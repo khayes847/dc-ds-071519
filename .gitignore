@@ -134,6 +134,6 @@ data/
 *.zip
 
 # Files
-*Chinook_MySql.sql
-*Chinook_Sqllite.sql
-*Chinook_Sqlite.sqlite
+Module-2/week-2/day_3_more_sql/data/Chinook_MySql.sql
+Module-2/week-2/day_3_more_sql/data/Chinook_Sqlite.sql
+Module-2/week-2/day_3_more_sql/data/Chinook_Sqlite.sqlite
